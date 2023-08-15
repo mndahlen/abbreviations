@@ -49,6 +49,7 @@
 * **STLC**: Space-Time Line Code
 * **RIS**: Reflective Intelligent Surfaces
 * **OFDM**: Orthogonal Frequency Division Multiplexing
+* **OFDMA**: Orthogonal Frequency Division Multiple Access
 * **LDPC**: Low-density Parity Check
 * **ANOVA**: Analysis Of Variance
 * **ADC**: Analog-To-Digital Converter
