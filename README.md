@@ -10,8 +10,31 @@
 * **QPSK**: Quadrature Phase Shift Keying
 * **MSK**: Minimum-Shift Keying
 
+## Wireless Distributed Learning
+* **HP**: Hard-coded Participation
+* **HPA**: Hard-coded Participation With Absentees
+* **SP**: Soft-coded Participation
+* **FEEL**: Federated Edge Learning
+* **BAA**: Broadband analog aggregation
+* **OBDA**: One-bit broadband digital aggregation
+* **ED**: Edge Device
+* **ES**: Edge Server
+* **OAC**: Over the air Computation
+
+## Resource Utilization (MAC)
+* **MAC**: Multiple Access Channel
+* **OMA**: Orthogonal Multiple Access
+* **NOMA**: Non-Orthogonal Multiple Access
+* **TDMA**: Time Domain Multiple Access
+* **FDMA**: Frequency Domain Multiple Access
+* **SC**: Single Carrier
+* **RACH**: Random Access Channel
+* **PUCCH**: Physical Uplink Control Channel
+* **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
+
 ## Metrics/Values
 * **CSI**: Channel State Information
+* **CSIR/CSIT**: CSI at the receiver and transmitter
 * **ACLR**: Adjacent-Channel-Leakage ratio
 * **PO**: Phase Offset
 * **TO**: Time Offset
@@ -24,27 +47,17 @@
 
 ## Mathematics
 * **CDF**: Cumulative Distribution Function
+* **ANOVA**: Analysis Of Variance
 
 ## Other
-* **OAC**: Over the air Computation
-* **ED**: Edge Device
-* **ES**: Edge Server
-* **OMA**: Orthogonal Multiple Access
-* **NOMA**: Non-Orthogonal Multiple Access
-* **TDMA**: Time Domain Multiple Access
 * **WSN**: Wireless Sensor Network
-* **FEEL**: Federated Edge Learning
 * **TBMA**: Type Based Multiple Access
 * **MV**: Majority Vote
-* **MAC**: Multiple Access Channel
 * **PA**: Power Amplifier
 * **AWGN**: Additive White Gaussian Noise
-* **CSIR/CSIT**: CSI at the receiver and transmitter
 * **TCI**: Truncated-Channel Inversion
 * **ZF**: Zero Forcing
 * **PC**: Phase Correction
-* **BAA**: Broadband analog aggregation
-* **OBDA**: One-bit broadband digital aggregation
 * **MRT**: Maximum-ratio transmission
 * **MRC**: Maximum-ratio combining
 * **CP**: Cyclic Prefix
@@ -54,7 +67,6 @@
 * **OFDM**: Orthogonal Frequency Division Multiplexing
 * **OFDMA**: Orthogonal Frequency Division Multiple Access
 * **LDPC**: Low-density Parity Check
-* **ANOVA**: Analysis Of Variance
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
 * **SL**: Split Learning
@@ -67,7 +79,3 @@
 * **NR**: New Radio
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
-* **SC**: Single Carrier
-* **RACH**: Random Access Channel
-* **PUCCH**: Physical Uplink Control Channel
-* **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
