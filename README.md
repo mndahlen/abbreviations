@@ -1,5 +1,16 @@
 # abbreviations
 
+## Signal Modulation
+* **FSK**: Frequency Shift Keying
+* **PPM**: Pulse-position modulation
+* **CSK**: Chirp-shift Keying
+* **PAM**: Pulse Amplitude Modulation
+* **QAM**: Quadrature Amplitude Modulation
+* **BPSK**: Binary Phase Shift Keying
+* **QPSK**: Quadrature Phase Shift Keying
+* **MSK**: Minimum-Shift Keying
+
+## Other
 * **OAC**: Over the air Computation
 * **ED**: Edge Device
 * **ES**: Edge Server
@@ -29,12 +40,6 @@
 * **RIS**: Reflective Intelligent Surfaces
 * **OFDM**: Orthogonal Frequency Division Multiplexing
 * **LDPC**: Low-density Parity Check
-* **FSK**: Frequency Shift Keying
-* **PPM**: Pulse-position modulation
-* **CSK**: Chirp-shift Keying
-* **PAM**: Pulse Amplitude Modulation
-* **QAM**: Quadrature Amplitude Modulation
-* **BPSK**: Binary Phase Shift Keying
 * **PO**: Phase Offset
 * **TO**: Time Offset
 * **CFO**: Carrier Frequency Offset
@@ -47,7 +52,5 @@
 * **SL**: Split Learning
 * **DCN**: Data Center Network
 * **IMC**: In-Memory Computing
-* **QPSK**: Quadrature Phase Shift Keying
-* **MSK**: Minimum-Shift Keying
 * **USRP**: Universal Software Radio Peripherals
 * **SDR**: Software-Defined Radio
