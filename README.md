@@ -10,6 +10,18 @@
 * **QPSK**: Quadrature Phase Shift Keying
 * **MSK**: Minimum-Shift Keying
 
+## Metrics/Values
+* **CSI**: Channel State Information
+* **ACLR**: Adjacent-Channel-Leakage ratio
+* **PO**: Phase Offset
+* **TO**: Time Offset
+* **CFO**: Carrier Frequency Offset
+* **PAPR**: Peak-To-Average Power Ratio
+* **OBO**: Output-Power Back-Off
+* **RSSI**: Received Signal Strength Information
+* **PMEPR**: Peak-To-Mean Envelope Power Ratio
+* **SNR**: Signal-To-Noise Ratio
+
 ## Other
 * **OAC**: Over the air Computation
 * **ED**: Edge Device
@@ -18,13 +30,11 @@
 * **NOMA**: Non-Orthogonal Multiple Access
 * **TDMA**: Time Domain Multiple Access
 * **WSN**: Wireless Sensor Network
-* **CSI**: Channel State Information
 * **FEEL**: Federated Edge Learning
 * **TBMA**: Type Based Multiple Access
 * **MV**: Majority Vote
 * **MAC**: Multiple Access Channel
 * **PA**: Power Amplifier
-* **ACLR**: Adjacent-Channel-Leakage ratio
 * **AWGN**: Additive White Gaussian Noise
 * **CSIR/CSIT**: CSI at the receiver and transmitter
 * **TCI**: Truncated-Channel Inversion
@@ -40,17 +50,14 @@
 * **RIS**: Reflective Intelligent Surfaces
 * **OFDM**: Orthogonal Frequency Division Multiplexing
 * **LDPC**: Low-density Parity Check
-* **PO**: Phase Offset
-* **TO**: Time Offset
-* **CFO**: Carrier Frequency Offset
-* **PAPR**: Peak-To-Average Power Ratio
-* **OBO**: Output-Power Back-Off
 * **ANOVA**: Analysis Of Variance
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
-* **RSSI**: Received Signal Strength Information
 * **SL**: Split Learning
 * **DCN**: Data Center Network
 * **IMC**: In-Memory Computing
 * **USRP**: Universal Software Radio Peripherals
 * **SDR**: Software-Defined Radio
+* **DFT**: Discrete Fourier Transform
+* **LTE**: Long Term Evolution
+* **NR**: New Radio
