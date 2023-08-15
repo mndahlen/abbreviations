@@ -22,6 +22,9 @@
 * **PMEPR**: Peak-To-Mean Envelope Power Ratio
 * **SNR**: Signal-To-Noise Ratio
 
+## Mathematics
+* **CDF**: Cumulative Distribution Function
+
 ## Other
 * **OAC**: Over the air Computation
 * **ED**: Edge Device
@@ -62,3 +65,9 @@
 * **DFT**: Discrete Fourier Transform
 * **LTE**: Long Term Evolution
 * **NR**: New Radio
+* **CFR**: Channel Frequency Response
+* **CIR**: Channel Impulse Response
+* **SC**: Single Carrier
+* **RACH**: Random Access Channel
+* **PUCCH**: Physical Uplink Control Channel
+* **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
