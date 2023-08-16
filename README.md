@@ -82,3 +82,8 @@
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
 * **PUCCH**: Physical Uplink Control Channel
+
+# Nomenclature
+* **Duplex**: Two at the same "time"
+* **Multiplex**: Several at the same "time"
+* **Multiple-Access**: Several devices access a channel
