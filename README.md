@@ -34,7 +34,9 @@
 * **PUCCH**: Physical Uplink Control Channel
 * **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
 * **TBMA**: Type Based Multiple Access
-
+* **OFDM**: Orthogonal Frequency Division Multiplexing
+* **OFDMA**: Orthogonal Frequency Division Multiple Access
+* **FDM**: Frequency Division Multiplexing
 ## Metrics/Values
 * **CSI**: Channel State Information
 * **CSIR/CSIT**: CSI at the receiver and transmitter
@@ -66,8 +68,6 @@
 * **MIMO**: Multiple-input-multiple-output
 * **STLC**: Space-Time Line Code
 * **RIS**: Reflective Intelligent Surfaces
-* **OFDM**: Orthogonal Frequency Division Multiplexing
-* **OFDMA**: Orthogonal Frequency Division Multiple Access
 * **LDPC**: Low-density Parity Check
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
