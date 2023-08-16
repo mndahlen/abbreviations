@@ -84,6 +84,7 @@
 * **CIR**: Channel Impulse Response
 * **PUCCH**: Physical Uplink Control Channel
 * **ICI/ISI**: Inter Carrier/Symbol Interference
+* **MF**: Matched Filtering
 
 # Nomenclature
 * **Duplex**: Two at the same "time"
