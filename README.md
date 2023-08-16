@@ -33,6 +33,7 @@
 * **RACH**: Random Access Channel
 * **PUCCH**: Physical Uplink Control Channel
 * **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
+* **TBMA**: Type Based Multiple Access
 
 ## Metrics/Values
 * **CSI**: Channel State Information
@@ -53,7 +54,6 @@
 
 ## Other
 * **WSN**: Wireless Sensor Network
-* **TBMA**: Type Based Multiple Access
 * **MV**: Majority Vote
 * **PA**: Power Amplifier
 * **AWGN**: Additive White Gaussian Noise
