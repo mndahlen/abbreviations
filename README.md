@@ -21,6 +21,7 @@
 * **ES**: Edge Server
 * **OAC**: Over the air Computation
 * **SL**: Split Learning
+* **AAM**: Adaptive Absolute Maximum
 
 ## Resource Utilization (MAC)
 * **MAC**: Multiple Access Channel
