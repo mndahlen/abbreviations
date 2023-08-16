@@ -20,6 +20,7 @@
 * **ED**: Edge Device
 * **ES**: Edge Server
 * **OAC**: Over the air Computation
+* **SL**: Split Learning
 
 ## Resource Utilization (MAC)
 * **MAC**: Multiple Access Channel
@@ -69,7 +70,6 @@
 * **LDPC**: Low-density Parity Check
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
-* **SL**: Split Learning
 * **DCN**: Data Center Network
 * **IMC**: In-Memory Computing
 * **USRP**: Universal Software Radio Peripherals
