@@ -31,12 +31,13 @@
 * **FDMA**: Frequency Domain Multiple Access
 * **SC**: Single Carrier
 * **RACH**: Random Access Channel
-* **PUCCH**: Physical Uplink Control Channel
 * **DFT-S-OFDM**: Discrete Fourier Transform Spread OFDM
 * **TBMA**: Type Based Multiple Access
 * **OFDM**: Orthogonal Frequency Division Multiplexing
 * **OFDMA**: Orthogonal Frequency Division Multiple Access
 * **FDM**: Frequency Division Multiplexing
+* **TDM**: Time Division Multiplexing
+
 ## Metrics/Values
 * **CSI**: Channel State Information
 * **CSIR/CSIT**: CSI at the receiver and transmitter
@@ -80,3 +81,4 @@
 * **NR**: New Radio
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
+* **PUCCH**: Physical Uplink Control Channel
