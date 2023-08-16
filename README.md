@@ -68,7 +68,8 @@
 * **CP**: Cyclic Prefix
 * **MIMO**: Multiple-input-multiple-output
 * **STLC**: Space-Time Line Code
-* **RIS**: Reflective Intelligent Surfaces
+* **RIS**: Reflective Intelligent Surfaces (Not same as LIS)
+* **LIS**: Large Intelligent Surface
 * **LDPC**: Low-density Parity Check
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
