@@ -82,6 +82,7 @@
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
 * **PUCCH**: Physical Uplink Control Channel
+* **ICI/ISI**: Inter Carrier/Symbol Interference
 
 # Nomenclature
 * **Duplex**: Two at the same "time"
