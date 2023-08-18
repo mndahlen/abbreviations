@@ -37,6 +37,7 @@
 * **OFDMA**: Orthogonal Frequency Division Multiple Access
 * **FDM**: Frequency Division Multiplexing
 * **TDM**: Time Division Multiplexing
+* **MIMO**: Multiple-input-multiple-output
 
 ## Metrics/Values
 * **CSI**: Channel State Information
@@ -76,7 +77,6 @@
 * **MRT**: Maximum-ratio transmission
 * **MRC**: Maximum-ratio combining
 * **CP**: Cyclic Prefix
-* **MIMO**: Multiple-input-multiple-output
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
 * **DFT**: Discrete Fourier Transform
