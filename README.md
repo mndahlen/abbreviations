@@ -85,6 +85,7 @@
 * **PUCCH**: Physical Uplink Control Channel
 * **ICI/ISI**: Inter Carrier/Symbol Interference
 * **MF**: Matched Filtering
+* **CSC**: Circularly-Shifted Chirp
 
 # Nomenclature
 * **Duplex**: Two at the same "time"
