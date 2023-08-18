@@ -87,6 +87,7 @@
 * **MF**: Matched Filtering
 * **CSC**: Circularly-Shifted Chirp
 * **FDSS*: Frequency-Domain Spectral Shaping
+* **TF**: Trigger Frame (Trigger Frame Based signalling)
 
 # Nomenclature
 * **Duplex**: Two at the same "time"
