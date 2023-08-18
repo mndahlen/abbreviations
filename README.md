@@ -63,8 +63,10 @@
 * **USRP**: Universal Software Radio Peripherals
 * **SDR**: Software-Defined Radio
 * **NR**: New Radio (As in 5G)
+* **LIS**: Large Intelligent Surface
+* **LTE**: Long Term Evolution
 
-## Other
+## Signal Processing
 * **MV**: Majority Vote
 * **PA**: Power Amplifier
 * **AWGN**: Additive White Gaussian Noise
@@ -75,13 +77,9 @@
 * **MRC**: Maximum-ratio combining
 * **CP**: Cyclic Prefix
 * **MIMO**: Multiple-input-multiple-output
-* **STLC**: Space-Time Line Code
-* **LIS**: Large Intelligent Surface
-* **LDPC**: Low-density Parity Check
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
 * **DFT**: Discrete Fourier Transform
-* **LTE**: Long Term Evolution
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
 * **PUCCH**: Physical Uplink Control Channel
@@ -90,6 +88,10 @@
 * **CSC**: Circularly-Shifted Chirp
 * **FDSS**: Frequency-Domain Spectral Shaping
 * **TF**: Trigger Frame (Trigger Frame Based signalling)
+
+## Other
+* **STLC**: Space-Time Line Code
+* **LDPC**: Low-density Parity Check
 
 # Nomenclature
 * **Duplex**: Two at the same "time"
