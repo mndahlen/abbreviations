@@ -55,8 +55,16 @@
 * **CDF**: Cumulative Distribution Function
 * **ANOVA**: Analysis Of Variance
 
-## Other
+## Buzz Concepts
 * **WSN**: Wireless Sensor Network
+* **RIS**: Reflective Intelligent Surfaces (Not same as LIS)
+* **DCN**: Data Center Network
+* **IMC**: In-Memory Computing
+* **USRP**: Universal Software Radio Peripherals
+* **SDR**: Software-Defined Radio
+* **NR**: New Radio (As in 5G)
+
+## Other
 * **MV**: Majority Vote
 * **PA**: Power Amplifier
 * **AWGN**: Additive White Gaussian Noise
@@ -68,25 +76,19 @@
 * **CP**: Cyclic Prefix
 * **MIMO**: Multiple-input-multiple-output
 * **STLC**: Space-Time Line Code
-* **RIS**: Reflective Intelligent Surfaces (Not same as LIS)
 * **LIS**: Large Intelligent Surface
 * **LDPC**: Low-density Parity Check
 * **ADC**: Analog-To-Digital Converter
 * **DAC**: Digital-To-Analog Converter
-* **DCN**: Data Center Network
-* **IMC**: In-Memory Computing
-* **USRP**: Universal Software Radio Peripherals
-* **SDR**: Software-Defined Radio
 * **DFT**: Discrete Fourier Transform
 * **LTE**: Long Term Evolution
-* **NR**: New Radio
 * **CFR**: Channel Frequency Response
 * **CIR**: Channel Impulse Response
 * **PUCCH**: Physical Uplink Control Channel
 * **ICI/ISI**: Inter Carrier/Symbol Interference
 * **MF**: Matched Filtering
 * **CSC**: Circularly-Shifted Chirp
-* **FDSS*: Frequency-Domain Spectral Shaping
+* **FDSS**: Frequency-Domain Spectral Shaping
 * **TF**: Trigger Frame (Trigger Frame Based signalling)
 
 # Nomenclature
