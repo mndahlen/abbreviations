@@ -93,3 +93,5 @@
 * **Duplex**: Two at the same "time"
 * **Multiplex**: Several at the same "time"
 * **Multiple-Access**: Several devices access a channel
+* **Symbol**: Any distinct state of the communication channel (See https://electronics.stackexchange.com/questions/494184/what-is-the-difference-between-signal-and-symbol-in-wireless-communications)
+* **Signal**: A sequence of symbols
