@@ -99,3 +99,4 @@
 * **Multiple-Access**: Several devices access a channel
 * **Symbol**: Any distinct state of the communication channel, or a entity of information (See https://electronics.stackexchange.com/questions/494184/what-is-the-difference-between-signal-and-symbol-in-wireless-communications)
 * **Signal**: A sequence of symbols
+* **block fading channel**
